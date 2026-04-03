@@ -1,0 +1,28 @@
+A3. Discover security concepts used in your house.
+
+Confidentiality
+
+Example:
+Card scanner, in the dorm where I live, there is a card scanner system. By tapping a valid access card, residents are able to enter their room or other parts of the dorm.
+
+Explanation:
+This represents confidentiality because it restricts access to private areas to only authorized individuals. Only residents with a valid card can enter the dorm or specific rooms, preventing unauthorized people from accessing personal spaces and belongings.
+This helps protect sensitive information and personal property inside the rooms. Without this system, anyone could enter, which would compromise privacy and security.
+
+Integrity
+
+Example:
+Security cameras are installed in the dorm to monitor and record activities in common areas.
+
+Explanation:
+This represents integrity because security cameras help ensure that actions within the dorm are recorded and can be verified if needed. If an incident occurs, such as theft or damage, the recorded footage can be used to identify what happened and who was responsible.
+This discourages people from tampering with property or behaving maliciously, as their actions can be tracked. As a result, the presence of cameras helps maintain the correctness and trustworthiness of activities within the environment.
+
+Availability
+
+Example:
+WiFi is available in the dorm, and users can connect by signing in using their username or email and password.
+
+Explanation:
+This represents availability because it ensures that residents can access internet services whenever needed. The login system allows authorized users to connect to the network and use online resources for study, communication, and entertainment.
+Reliable WiFi access is important for daily activities, especially for students. If the network is unavailable or difficult to access, it could disrupt learning and communication.
