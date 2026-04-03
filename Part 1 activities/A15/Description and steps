@@ -1,0 +1,34 @@
+A15. Discover 5 recent security incidents.
+
+FBI Surveillance System Cyberattack (USA)
+What happened: A cyberattack targeted systems used for wiretapping and investigations by the Federal Bureau of Investigation
+Impact: Classified as a “major incident” due to risks to national security
+Details: Attackers accessed sensitive infrastructure; origin still unknown
+Why it matters: Shows that even top government agencies are vulnerable to advanced cyber threats
+
+European Commission Data Breach (EU)
+What happened: Hackers breached cloud systems linked to the EU’s official websites
+Target: European Commission
+Impact: Data was stolen (estimated hundreds of GB), though core systems remained safe
+Cause: Likely compromised cloud account (possibly via malware or social engineering)
+Why it matters: Highlights risks of cloud security and credential theft
+
+Axios npm Supply Chain Attack
+What happened: Attackers compromised the npm account of Axios
+Impact: Malicious versions distributed malware (Remote Access Trojan) to developers
+Scope: Affected Windows, macOS, and Linux users
+Technique: Software supply chain attack (infecting trusted libraries)
+Why it matters: Demonstrates how attackers target developers and dependencies instead of end users
+
+Northern Ireland School IT System Attack
+What happened: Cyberattack on the C2K education network used by schools
+Impact: Thousands of students unable to access study materials during exams
+Response: System shutdown, password resets, and investigation
+Why it matters: Shows cyberattacks can disrupt education and daily life, not just businesses
+
+Iran-Linked Cyber Warfare & Spyware Campaign
+What happened: Iran-linked hackers launched cyberattacks including spyware via mobile messages
+Targets: Civilians, healthcare systems, and organizations
+Impact: Data theft, surveillance, and disruption of services
+Scale: Thousands of attacks reported as part of ongoing cyber warfare
+Why it matters: Cyberattacks are increasingly part of modern warfare and geopolitical conflict
