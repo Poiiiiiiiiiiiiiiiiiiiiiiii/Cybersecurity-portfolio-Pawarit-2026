@@ -1,0 +1,10 @@
+A4. Discover a Vulnerable Website
+
+For this activity, I analyzed a website belonging to my father’s company. Since the website has not been actively maintained or updated for a long time, I suspected that it might contain security vulnerabilities.
+To investigate this, I searched for a vulnerability scanning tool and chose OWASP ZAP. Although the installation process was slightly confusing—because it required installing Java first—I found OWASP ZAP to be beginner-friendly and suitable for this task.
+After installing the tool, I opened OWASP ZAP and entered the website’s URL into the scanner. I then initiated an automated scan (attack). Once the scan was complete, I navigated to the “Alerts” tab, where the tool displayed a list of identified vulnerabilities.
+The results included:
+1. The type of vulnerability
+2. The risk level
+3. The confidence level of each finding
+This allowed me to understand the potential security weaknesses of the website in a structured and accessible way.
