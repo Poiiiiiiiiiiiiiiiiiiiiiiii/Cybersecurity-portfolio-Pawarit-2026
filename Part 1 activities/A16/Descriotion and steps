@@ -1,0 +1,59 @@
+A16. Discover 3 Local Security Incidents
+1. University of Western Australia Cyberattack (2025)
+
+What happened:
+Hackers gained unauthorised access to university systems, resulting in the exposure of thousands of staff and student passwords. As a precaution, all users were temporarily locked out of their accounts, causing disruption to university operations.
+
+Cause:
+The attack was likely caused by a security vulnerability or compromised credentials. The attackers appeared to specifically target login authentication systems.
+
+Response:
+
+Emergency IT response team was activated
+Mandatory password reset enforced for all users
+Investigation initiated to identify the source and extent of the breach
+
+Why it matters:
+This incident demonstrates that educational institutions are significant targets for cyberattacks. Even the exposure of login credentials alone can disrupt an entire organisation. It highlights the importance of:
+
+Strong password policies
+Multi-factor authentication (MFA)
+2. Edith Cowan University Data Breach (2024)
+
+What happened:
+Personal data belonging to students and staff was accessed due to unauthorised system access. The exposed information included sensitive details such as email addresses and identification data.
+
+Impact:
+
+Increased risk of phishing and social engineering attacks
+Potential misuse of personal information
+
+Response:
+
+Affected individuals were notified
+The university implemented additional security measures to prevent future incidents
+
+Why it matters:
+This breach highlights the risks associated with unauthorised access to institutional systems and the importance of protecting personal data from exposure.
+
+3. WA Health Data Breach (2023)
+
+What happened:
+Attackers gained access to a third-party system used by WA Health, resulting in the exposure of patient and employee data.
+
+Impact:
+
+Sensitive personal and medical information was at risk
+Raised serious concerns regarding data privacy and security
+
+Response:
+
+Investigation launched into the incident
+Security controls and monitoring systems were strengthened
+
+Why it matters:
+This incident highlights the risks associated with third-party vendors and supply chain vulnerabilities. Even if an organisation has strong internal security, weaknesses in external systems can still lead to data breaches.
+
+Conclusion
+
+These incidents demonstrate that cyber threats can affect a wide range of organisations, including universities and healthcare providers. They emphasise the importance of strong authentication, proper access control, and securing third-party systems to reduce the risk of future attacks.
