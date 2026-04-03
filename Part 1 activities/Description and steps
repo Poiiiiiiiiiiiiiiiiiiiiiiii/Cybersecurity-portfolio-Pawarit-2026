@@ -1,0 +1,8 @@
+A5. Discover cryptographic implementation used online.
+
+One of the most common uses of cryptography online is HTTPS (Hypertext Transfer Protocol Secure). HTTPS encrypts data transmitted between a user’s browser and a website using TLS (Transport Layer Security), ensuring that sensitive information, such as passwords or personal details, cannot be intercepted or read by unauthorized parties.
+For this activity, I used Wireshark to capture and analyze network communication. 
+After downloading and opening Wireshark, I selected the Wi-Fi interface, since it was the network I was using at the time. Once the capture started, network packets appeared in real time.
+I filtered the captured packets to focus on HTTPS traffic (TLS protocol) instead of DNS. When examining the packet details, I observed data displayed in hexadecimal format, for example: 24 b2 b9 49 20 45 00 00
+These hexadecimal values represent the encrypted data (ciphertext) produced by TLS. To see the actual binary created by TLS you can decrypt hexadecimal, but the data is unreadable without the proper decryption keys. Wireshark shows it in hex simply to make it human-readable; it does not reveal the original plaintext. 
+This demonstrates how cryptography protects sensitive information even if network traffic is captured.
