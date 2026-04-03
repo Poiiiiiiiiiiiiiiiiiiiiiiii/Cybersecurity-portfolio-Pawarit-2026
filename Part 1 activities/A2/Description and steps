@@ -1,0 +1,28 @@
+A2. Discover security concepts used in public space.
+
+Confidentiality
+
+Example:
+Credit/Debit card reader. When paying using a debit/Credit card with a card scanner, only the cardholder is able to access and use the money in their bank account.
+
+Explanation:
+This represents confidentiality because the payment system protects sensitive financial information, such as your card details and account balance, from unauthorized access. When you tap or insert your card, encryption and secure communication ensure that your data is not exposed to others during the transaction.
+Only the the cardholder can initiate payments, which prevents other people from accessing or using the funds in the account. This helps ensure that personal financial information remains private.
+
+Integrity
+
+Example:
+An ATMs around city. When using an ATM, you need both a bank card and a PIN to access your account.
+
+Explanation:
+This represents integrity because requiring both the card (something you have) and the PIN (something you know) ensures that only authorized users can perform transactions. This reduces the risk of unauthorized changes to account data, such as withdrawing money or transferring funds.
+By verifying the user’s identity, the ATM system helps ensure that all transactions are legitimate and that account information remains accurate and trustworthy.
+
+Availability
+
+Example:
+At Perth train and bus stations, there are many machines that allow users to check their balance, top up, and purchase tickets by inserting their card into the machine their SmartRider card.
+
+Explanation:
+This represents availability because these machines ensure that transport services are accessible when needed. By providing multiple machines in different locations, users can easily manage their travel cards, check balances, and purchase tickets without long delays.
+The ability to check balance, top up credit, and buy tickets ensures that users can continue their journeys without interruption. If these machines were unavailable, it could prevent people from accessing public transport services efficiently.
