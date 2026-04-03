@@ -1,0 +1,9 @@
+A12. Discover 5 Offline Security Tools
+
+For this activity, I explored five different offline security tools that can be used to protect computer systems and data. Each tool serves a unique purpose, from malware detection to network protection and password management.
+
+1. ClamAV – an open-source antivirus that scans files for malware, viruses, and other threats.
+2. Chkrootkit – scans a Linux system for rootkits, which are malicious programs that hide at the system level.
+3. UFW (Uncomplicated Firewall) – UFW is a firewall tool that controls which network traffic is allowed or blocked to and from the system.
+4. KeePassXC – a secure password manager that stores credentials in an encrypted database protected by a master password.
+5. Malwarebytes - a tool that scans for malware, spyware, and give suggestion on safty of my device.
