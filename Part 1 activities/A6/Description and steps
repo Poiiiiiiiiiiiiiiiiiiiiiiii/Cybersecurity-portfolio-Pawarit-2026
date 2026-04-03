@@ -1,0 +1,24 @@
+A6. Discover Cryptographic Implementation Used Offline
+
+In an offline environment, cryptography can be used to encrypt and decrypt files locally. On a Linux or WSL system, the openssl command-line tool can be used for this purpose.
+
+For this activity, I used the following command to encrypt a text file:
+
+openssl enc -aes-256-cbc -salt -in filename.txt -out filename.enc
+
+Explanation:
+
+1. enc tells OpenSSL to perform encryption
+2.-aes-256-cbc specifies the encryption algorithm AES with 256-bit key in CBC mode
+3.-salt will adds randomness to the encryption to make it more secure
+4.-in filename.txt = input file containing plaintext
+5.-out filename.enc = output file containing encrypted data (ciphertext)
+
+After running the command, I was prompted to enter a password. This password is then used to generate the encryption key. The encrypted file (filename.enc) cannot be decrypted without this password.
+To decrypt the file, I used:
+
+openssl enc -aes-256-cbc -d -in filename.enc -out filename.txt
+
+-d tell it to decrypt
+The command asks for the same password used during encryption
+Only if the correct password is entered will the original plaintext be restored
