@@ -1,0 +1,23 @@
+A10. Discover Privacy Technique Used Offline
+
+For this activity, I explored a privacy technique implemented on my Windows device: device encryption.
+Device encryption is a feature that encrypts the entire storage drive, protecting the information on the device from being accessed by unauthorized users or other devices. 
+Only the user account associated with the device has the key required to decrypt the data, ensuring that sensitive information remains secure even if the device is lost or stolen.
+
+How to Enable Device Encryption
+1. Open Settings > Privacy & Security > Device Encryption.
+2. Toggle the option to turn encryption on or off.
+
+How to Verify Encryption Status
+
+You can confirm whether device encryption is active by using the Command Prompt:
+
+manage-bde -status
+
+Before enabling encryption, the tool will display that protection is off.
+After enabling encryption, it will indicate that protection is on, confirming that the device is encrypted.
+
+This Demonstrates Privacy because:
+Encryption ensures that only authorized users can access the device’s data.
+Even if the storage drive is removed, the data cannot be read without the decryption key.
+This is a real-world example of securing information without relying on internet services.
