@@ -1,0 +1,7 @@
+A21. Participate in an Online Cybersecurity Discussion
+
+I participated in a Reddit discussion about pursuing a career in cybersecurity. The original poster asked whether a path of CCNA → Networking job → Security+ → CEH was effective for eventually moving into ethical hacking.
+The advice I received suggested that while CCNA and networking knowledge are valuable, spending multiple years in networking is unnecessary. CEH is less practical because it focuses on memorization, whereas OSCP and hands-on labs provide real-world skills. 
+A recommended approach is to gain CCNA certification, spend about a year in networking to understand systems, and simultaneously practice ethical hacking through Hack The Box labs, bug bounties, and other hands-on exercises.
+The discussion also highlighted differences between roles: networking jobs are stable, easier to find, and mostly onsite or hybrid, while ethical hacking roles are more engaging, remote-friendly, but competitive. Combining networking experience with red teaming skills offers a strong foundation and improves career prospects.
+I also reflected that remote work opportunities are a significant motivator in choosing cybersecurity, and practical skills combined with certifications are key to long-term success.
