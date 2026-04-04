@@ -1,0 +1,3 @@
+A7. Discover cryptography used in modern networks.
+In Instagran there is a feature call end to end encryption, this prevent anyone from looking in between you and the person you talked to.
+The conversation will be encrypted with asymetric key and will be decrypt when reach receiver.
