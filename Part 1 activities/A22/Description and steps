@@ -1,0 +1,7 @@
+For this activity  I used website called Lakera Gandolf.
+This website allow me to test my code injection skill legally.
+On level 2, the ai have modurately high security.
+I use prompt injection technique by encrypt question.
+The ai will able to read it but it will not look like a prompt injection but a harmless prompt.
+This will cause the ai to not detect prompt injection and gave me password.
+This technique is called obfuscated prompt injection.
