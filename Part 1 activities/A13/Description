@@ -1,0 +1,6 @@
+A13. Discover 5 unique online security tools
+Https everywhere - This will turn any website that is in Http into Https if possible
+Lastpass - can help you generate password, and remember it for you. Even if you change browser, aslong as you still use the same account password will transfer there.
+Wire shark - can help you see and manage packet of website, with some knowledge of cybersecurity you can spot an unsafe packet.
+McAfee webadviser - When down load file it will scan the file and see if it safe or not.
+OWASP zap - this application allow you to detect a vulnurability in your website, this is a very useful tool for webdeveloper.
